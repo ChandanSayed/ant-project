@@ -293,7 +293,7 @@
       .add_schedule_button_container{
         width: 100%;
         display: flex;
-        justify-content: end;
+        justify-content: flex-end;
         button{
           padding: .5rem 1rem;
           border-radius: .25rem;
